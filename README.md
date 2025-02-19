@@ -16,8 +16,9 @@ An application programming interfae(API) for a social media application
 
 ## Installation
 
-Run "npm install" then npm run "start".
+Run npm install
 
+Run npm run start 
 
 ## Usage
 To Make API calls using a a MongoDB database and and express.js
